@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faturamentoMensal>
+    <dia data="2024-09-01">
+        <valor>1000.50</valor>
+    </dia>
+    <dia data="2024-09-02">
+        <valor>0</valor> <!-- Dia sem faturamento (ex: final de semana ou feriado) -->
+    </dia>
+    <dia data="2024-09-03">
+        <valor>1234.00</valor>
+    </dia>
+    <dia data="2024-09-04">
+        <valor>900.00</valor>
+    </dia>
+    <dia data="2024-09-05">
+        <valor>1500.75</valor>
+    </dia>
+    <dia data="2024-09-06">
+        <valor>0</valor> <!-- Dia sem faturamento -->
+    </dia>
+    <dia data="2024-09-07">
+        <valor>850.20</valor>
+    </dia>
+    <!-- Adicione mais dias conforme necessário -->
+</faturamentoMensal>
